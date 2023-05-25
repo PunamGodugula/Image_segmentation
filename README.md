@@ -1,4 +1,4 @@
-Title: Indian Traffic Image Segmentation: Donors Choose Project
+# Title: Indian Traffic Image Segmentation
 
 Project Description:
 The "Indian Traffic Image Segmentation" project aims to leverage advanced computer vision techniques to perform accurate and precise image segmentation of Indian traffic images, to apply state-of-the-art algorithms to segment traffic images, enabling improved analysis, traffic management, and road safety in Indian cities.
